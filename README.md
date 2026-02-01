@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Convert any GitHub repository into an MCP server in seconds</strong>
-</p>
+</p> 
 
 <p align="center">
   Give Claude, ChatGPT, Cursor, Windsurf, Cline, and any AI assistant instant access to any codebase.
