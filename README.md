@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="apps/web/public/logo.svg" alt="GitHub to MCP" width="120" height="120" /> 
 </p>
 
