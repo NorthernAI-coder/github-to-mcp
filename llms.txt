@@ -100,3 +100,9 @@ Set GITHUB_TOKEN environment variable with a token that has repo access.
 - npm: https://www.npmjs.com/package/@nirholas/github-to-mcp
 - GitHub: https://github.com/nirholas/github-to-mcp
 - MCP Protocol: https://modelcontextprotocol.io
+
+## Links
+
+- Repository: https://github.com/nirholas/github-to-mcp
+- Author: https://github.com/nirholas
+- Full documentation: https://raw.githubusercontent.com/nirholas/github-to-mcp/main/llms-full.txt
